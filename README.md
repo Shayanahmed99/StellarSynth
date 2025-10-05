@@ -5,7 +5,7 @@
 ---
 
 ## Project Overview
-StellarSynth is an AI-based application designed to classify exoplanet candidates using NASA’s **Transiting Exoplanet Survey Satellite (TESS)** dataset. The system analyzes key astrophysical parameters—such as orbital period, transit depth, planetary radius, and stellar properties—to predict whether a candidate is likely to be a confirmed planet or a false positive.
+StellarSynth is an AI-based application designed to classify exoplanet candidates using NASA’s **Transiting Exoplanet Survey Satellite (TESS)** dataset. The system analyzes key astrophysical parameters, such as orbital period, transit depth, planetary radius, and stellar properties, to predict whether a candidate is likely to be a confirmed planet or a false positive.
 
 The goal of StellarSynth is to demonstrate how artificial intelligence can accelerate exoplanet discovery by automating classification, reducing manual analysis, and highlighting high-potential candidates.
 
